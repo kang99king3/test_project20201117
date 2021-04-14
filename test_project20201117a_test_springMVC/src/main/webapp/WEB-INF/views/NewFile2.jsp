@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <h1>저 아임다</h1>
+<h2>저도 아임다</h2>
+
 </body>
 </html>
